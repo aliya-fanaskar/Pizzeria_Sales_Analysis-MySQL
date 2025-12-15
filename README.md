@@ -15,7 +15,7 @@ The database consists of the following tables:
 * `pizzas` – pizza size and price information
 * `pizza_types` – pizza names and categories
 
-All tables are joined using appropriate keys to enable end-to-end sales analysis - [database_setup.sql]()
+All tables are joined using appropriate keys to enable end-to-end sales analysis - [database_setup.sql](https://github.com/aliya-fanaskar/Pizzeria_Sales_Analysis-MySQL/blob/main/SQL_files/1-database_setup.sql)
 
 
 ---
@@ -24,14 +24,14 @@ All tables are joined using appropriate keys to enable end-to-end sales analysis
 
 Following metrics were extracted to carry out the analysis
 
-#### Simple Analysis - [(simple.sql)]()
+#### Simple Analysis - [(simple.sql)](https://github.com/aliya-fanaskar/Pizzeria_Sales_Analysis-MySQL/blob/main/SQL_files/2-simple.sql)
 * Total number of orders
 * Highest-priced pizza
 * No. of uniqur pizza varieties
 * Categorical distribution of pizza varieties
 * Highest-priced pizza
 
-#### Intermediate Analysis - [(intermediate.sql)]()
+#### Intermediate Analysis - [(intermediate.sql)](https://github.com/aliya-fanaskar/Pizzeria_Sales_Analysis-MySQL/blob/main/SQL_files/3-intermediate.sql)
 * Average pizzas ordered per day
 * Most to least common pizza size ordered
 * Top ordered pizzas by quantity
@@ -39,7 +39,7 @@ Following metrics were extracted to carry out the analysis
 * Order distribution by hour of the day
 * Monthly orders and sales revenue
 
-#### Advanced Analysis - [(advanced.sql)]()
+#### Advanced Analysis - [(advanced.sql)](https://github.com/aliya-fanaskar/Pizzeria_Sales_Analysis-MySQL/blob/main/SQL_files/4-advanced.sql)
 * Top 3 highest selling pizzas
 * Percentage contribution to total revenue
 * Monthly cumulative revenue over time
