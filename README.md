@@ -91,7 +91,7 @@ Following metrics were extracted to carry out the analysis
 
 ## Sources
 
-This project was created as part of my learning journey from a [Youtube Tutorial by WsCube Tech](https://www.youtube.com/watch?v=zZpMvAedh_E) guided by @Ayushi0214. While the dataset and problem statement were provided during the tutorial, I did some more modifications in the database setup and made my own additions and variations to the analysis queries, including deeper aggregations, window functions, and insight-focused questions to enhance my learning.
+This project was created as part of my learning journey from a [Youtube Tutorial by WsCube Tech](https://www.youtube.com/watch?v=zZpMvAedh_E) guided by [Ayushi Jain](https://github.com/Ayushi0214). While the dataset and problem statement were provided during the tutorial, I did some more modifications in the database setup and made my own additions and variations to the analysis queries, including deeper aggregations, window functions, and insight-focused questions to enhance my learning.
 
 Beyond the tutorial, I explored additional SQL concepts by referring to blogs, documentation, and practice sites. Some of these are as follows:
 - [SQL for Data Analysis cheatsheet - blog from learnsql.com](https://learnsql.com/blog/sql-for-data-analysis-cheat-sheet/)
